@@ -1,1 +1,3 @@
 this is selenium automation tool..
+
+it is a open-source and free tool..
